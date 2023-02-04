@@ -1,0 +1,8 @@
+﻿  OpenCvTest.cpp
+OpenCvTest.obj : error LNK2019: symbole externe non résolu "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) référencé dans la fonction _main
+OpenCvTest.obj : error LNK2019: symbole externe non résolu "class cv::Mat __cdecl cv::imread(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?imread@cv@@YA?AVMat@1@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) référencé dans la fonction _main
+OpenCvTest.obj : error LNK2019: symbole externe non résolu "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z) référencé dans la fonction _main
+OpenCvTest.obj : error LNK2019: symbole externe non résolu "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV_InputArray@debug_build_guard@1@@Z) référencé dans la fonction _main
+OpenCvTest.obj : error LNK2019: symbole externe non résolu "void __cdecl cv::resize(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXABV_InputArray@debug_build_guard@1@ABV_OutputArray@31@V?$Size_@H@1@NNH@Z) référencé dans la fonction _main
+c:\OpenCV-4.6.0\opencv\build\x64\vc15\lib\opencv_world460d.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+C:\Users\ihebc\source\repos\OpenCvTest\Debug\OpenCvTest.exe : fatal error LNK1120: 5 externes non résolus

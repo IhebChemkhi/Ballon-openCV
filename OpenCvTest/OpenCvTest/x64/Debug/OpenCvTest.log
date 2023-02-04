@@ -1,0 +1,4 @@
+﻿  OpenCvTest.cpp
+C:\Users\ihebc\source\repos\OpenCvTest\OpenCvTest\OpenCvTest\OpenCvTest.cpp(108,22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\ihebc\source\repos\OpenCvTest\OpenCvTest\OpenCvTest\OpenCvTest.cpp(109,22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  OpenCvTest.vcxproj -> C:\Users\ihebc\source\repos\OpenCvTest\OpenCvTest\x64\Debug\OpenCvTest.exe
